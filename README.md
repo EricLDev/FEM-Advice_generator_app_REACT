@@ -1,7 +1,7 @@
 ### Links
 
-- Solution URL: []
-- Live Site URL: []
+- Solution URL: [https://www.frontendmentor.io/solutions/advice-generator-3rd-party-api-with-react-BJ4q0eAGc]
+- Live Site URL: [https://ericl81.github.io/FEM-Advice_generator_app_REACT/]
 
 # Frontend Mentor - Advice generator app
 
